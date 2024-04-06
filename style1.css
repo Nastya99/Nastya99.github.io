@@ -1,10 +1,10 @@
 body {
-background: linear-gradient(to right, black, lightblue);
-color: white;
-text-align: center;
-text-shadow: 0 0 10px white;
-font-size: 20px;
-display: flex;
+	background: linear-gradient(to right, black, lightblue);
+	color: white;
+	text-align: center;
+	text-shadow: 0 0 10px white;
+	font-size: 20px;
+	display: flex;
 }
 div {
 	width: 30%;
